@@ -7,7 +7,7 @@ public class Add {
                         int sum = a + b;
                         int sub = a - b;
                         System.out.println("The sum is: " + sum);
-                        System.out.println("The sum is: " + sum);
+                        System.out.println("The sum is: " + sub);
                     }
                 }
                 
